@@ -1,4 +1,4 @@
-package com.annotation.jdk;
+package com.annotation.jdktest;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;

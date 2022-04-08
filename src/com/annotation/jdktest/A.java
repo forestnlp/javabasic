@@ -1,8 +1,4 @@
-package com.annotation.jdk;
-
-import java.io.File;
-import java.util.ArrayList;
-import java.util.List;
+package com.annotation.jdktest;
 
 /**
  * @Auther: 刘杰
